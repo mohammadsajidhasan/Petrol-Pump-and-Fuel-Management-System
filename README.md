@@ -140,47 +140,11 @@ Fuel-X is built around **four distinct access portals**, each tailored to a spec
 
 > ℹ️ Update this section with your actual stack — the placeholders below reflect a typical setup for this type of project.
 
-- **Frontend:** HTML5, CSS3, JavaScript
-- **Backend:** Node.js
-- **Database:** MongoDB / MySQL *(specify your choice)*
+- **Frontend:** HTML, CSS
+- **Backend:** php
+- **Database:** MySQL
 - **Notifications:** Telegram Bot API, Email (SMTP)
 - **Maps & Geolocation:** Google Maps API
-
----
-
-## 🚀 Getting Started
-
-### Prerequisites
-- Node.js (v16+)
-- npm or yarn
-- A configured database instance
-
-### Installation
-```bash
-# Clone the repository
-git clone https://github.com/<your-username>/fuel-x.git
-cd fuel-x
-
-# Install dependencies
-npm install
-
-# Configure environment variables
-cp .env.example .env
-
-# Start the application
-npm start
-```
-
-### Environment Variables
-```env
-PORT=8080
-DATABASE_URL=your_database_connection_string
-TELEGRAM_BOT_TOKEN=your_telegram_bot_token
-SMTP_HOST=your_smtp_host
-SMTP_USER=your_smtp_user
-SMTP_PASS=your_smtp_password
-GOOGLE_MAPS_API_KEY=your_google_maps_api_key
-```
 
 ---
 
