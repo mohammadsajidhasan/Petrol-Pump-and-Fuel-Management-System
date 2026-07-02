@@ -1,4 +1,4 @@
-# ⛽ Fuel-X — Smart Fuel Management & Distribution System
+# ⛽ Fuel-X — Smart Petrol Pump & Fuel Management System
 
 Fuel-X is a multi-portal fuel management platform that connects **vehicle owners**, **station employees**, **station owners**, and **corporate fuel suppliers (BPC Logistics)** in a single real-time ecosystem. It streamlines fuel discovery, queue management, emergency prioritization, inventory tracking, and supply-chain refilling — all from one unified system.
 
@@ -197,14 +197,15 @@ Contributions, issues, and feature requests are welcome. Feel free to check the 
 
 ---
 
-## 📄 License
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
+
 
 ---
 
-## 👤 Author
-**Sajid**
-CSE Student, UIU
+## 👨‍💻 Author
+
+### Md. Sajid Hasan
+
+- GitHub: https://github.com/mohammadsajidhasan
 
 ---
 
